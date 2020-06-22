@@ -10,6 +10,6 @@ KTH Stockholm
 
 ## Screenshot
 
-[to be put]
+[to do]
 
 
