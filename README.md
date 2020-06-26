@@ -1,15 +1,9 @@
-# IS2500-RFID-Systems
+# Android app
 
-Android project interacting with NFC. 
+Android app reading base64 image via NFC from embedded system, in this case being a device that works as a poster that gets activated by the energy from the phone.
 
-IS2500 RFID Systems Project
+[Presentation Website](https://benmms.wixsite.com/dragosbenrfid)
 
-KTH Stockholm
 
-2018-2019, 2nd year of Masters
-
-## Screenshot
-
-[to do]
 
 
